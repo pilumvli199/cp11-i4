@@ -1,4 +1,7 @@
-python-dotenv
-requests
-pyotp
-SmartApi
+python-dotenv==1.0.1
+requests==2.32.3
+pyotp==2.9.0
+SmartApi==1.1.0
+pycryptodome==3.21.0
+logzero==1.7.0
+websocket-client==1.8.0
